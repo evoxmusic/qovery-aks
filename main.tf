@@ -17,10 +17,6 @@ provider "azurerm" {
 resource "azurerm_resource_group" "production" {
   name     = "production-rg"
   location = "West US 2"
-
-  tags = {
-    environment = "Demo"
-  }
 }
 
 resource "azurerm_kubernetes_cluster" "production" {
