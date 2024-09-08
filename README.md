@@ -2,6 +2,10 @@
 
 This is a simple example of how to deploy an AKS (Azure Kubernetes Service) and install Qovery on it.
 
+Here is a quick demo of the final result:
+
+[![Qovery AKS](assets/video.png)](https://www.loom.com/share/bc3f67133a214b7f8d31dbe0a6ee3557)
+
 ## Prerequisites
 
 - Account: [Azure](https://portal.azure.com)
